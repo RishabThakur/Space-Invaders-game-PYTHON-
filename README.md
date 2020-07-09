@@ -1,1 +1,3 @@
-# Space-Invaders-game-PYTHON-
+HI!!!!!!!!!!!!!!!!!
+RUN THE PYTHON FILE MAIN.PY I YOUR TERMINAL AND ENJOY THE GAME>>
+gOOD LUCk!!!!! 
